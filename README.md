@@ -12,6 +12,7 @@
 <img src="https://komarev.com/ghpvc/?username=kundan-kumar07&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
 <img src="https://img.shields.io/badge/VIT--AP-CSE-0ea5e9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="VIT-AP" />
 <img src="https://img.shields.io/badge/Open%20to-Collabs-22c55e?style=for-the-badge&logo=handshake&logoColor=white" alt="open to collabs" />
+<img src="https://img.shields.io/badge/Status-Building%20%F0%9F%94%A8-f59e0b?style=for-the-badge" alt="status" />
 
 </div>
 
@@ -22,7 +23,17 @@
 
 > **_"I don't just learn technologies — I build with them."_** 🚀
 
-I'm a **Computer Science student at VIT-AP University** who loves turning ideas into real, working products. Right now I'm living at the intersection of
+```js
+const kundan = {
+  role: "Full-Stack Developer",
+  studying: "Computer Science @ VIT-AP University",
+  building: ["Full-Stack Apps", "AI Products", "Cloud & Backend Systems"],
+  learning: ["Generative AI", "AWS", "System Design", "CI/CD"],
+  mindset: "Learn → Build → Break → Debug → Ship",
+  currentlyDebugging: true, // 😄
+  funFact: "I learn best by breaking things and fixing them",
+};
+```
 
 <div align="center">
 
@@ -51,7 +62,24 @@ I'm a **Computer Science student at VIT-AP University** who loves turning ideas 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,postgres,tailwind,git,github,aws,docker&perline=7" alt="tech stack" />
+<table>
+  <tr>
+    <td align="center"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend & DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github" alt="cloud and tools" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -144,35 +172,29 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=kundan-kumar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan-kumar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<img src="https://streak-stats.demolab.com?user=kundan-kumar07&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=kundan-kumar07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kundan-kumar07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=kundan-kumar07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+<img src="https://streak-stats.demolab.com?user=kundan-kumar07&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kundan-kumar07&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="activity graph" width="100%" />
 </div>
 
 <br/>
 
 <!-- ===================== SNAKE ===================== -->
-<div align="center">
+## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
-### 🐍 Snake eating my contributions
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundan-kumar07/kundan-kumar07/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundan-kumar07/kundan-kumar07/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kundan-kumar07/kundan-kumar07/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kundan-kumar07/kundan-kumar07/output/github-snake-dark.svg" width="100%" />
 </picture>
+
+<sub>🟣 More contributions = more snake food. Keep shipping. 🚀</sub>
 
 </div>
 
@@ -186,7 +208,7 @@ flowchart LR
 <a href="https://github.com/kundan-kumar07">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/kundan-kumar-dubey-3121b1229/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
