@@ -111,8 +111,8 @@ const kundan = {
       <sub>Full-stack vehicle rental platform</sub>
     </td>
     <td align="center" width="33%">
-      <h3>🎬 Movie Recommender</h3>
-      <sub>ML-based recommendation system</sub>
+      <h3>🌐 AI SaaS Website</h3>
+      <sub>PERN stack web application</sub>
     </td>
     <td align="center" width="33%">
       <h3>✨ Next up…</h3>
@@ -183,25 +183,6 @@ flowchart LR
 
 <br/>
 
-<!-- ===================== LEETCODE STATS ===================== -->
-## 🧩 &nbsp;LeetCode Stats
-
-<div align="center">
-
-[![Kundan's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=kundan_kumar07&theme=dark)](https://leetcode.com/kundan_kumar07)
-
-<br/>
-
-<img src="https://github-readme-leetcode-card.romitsagu.com/kundan_kumar07?theme=Dark" alt="LeetCode Card" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/kundan-kumar07/kundan-kumar07/main/assets/leetcode-stats.svg" alt="LeetCode Contribution Activity" />
-
-</div>
-
-<br/>
-
 <!-- ===================== SNAKE ===================== -->
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
@@ -227,7 +208,7 @@ flowchart LR
 <a href="https://github.com/kundan-kumar07">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/kundan-kumar-dubey-3121b1229/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
