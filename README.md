@@ -111,8 +111,8 @@ const kundan = {
       <sub>Full-stack vehicle rental platform</sub>
     </td>
     <td align="center" width="33%">
-      <h3>🌐 AI SaaS Website</h3>
-      <sub>PERN stack web application</sub>
+      <h3>⏰ AssignMate</h3>
+      <sub>Smart Task Reminder System</sub>
     </td>
     <td align="center" width="33%">
       <h3>✨ Next up…</h3>
