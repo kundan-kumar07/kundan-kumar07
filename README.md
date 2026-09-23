@@ -183,6 +183,25 @@ flowchart LR
 
 <br/>
 
+<!-- ===================== LEETCODE STATS ===================== -->
+## 🧩 &nbsp;LeetCode Stats
+
+<div align="center">
+
+[![Kundan's LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=kundan_kumar07&theme=dark)](https://leetcode.com/kundan_kumar07)
+
+<br/>
+
+<img src="https://github-readme-leetcode-card.romitsagu.com/kundan_kumar07?theme=Dark" alt="LeetCode Card" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/kundan-kumar07/kundan-kumar07/main/assets/leetcode-stats.svg" alt="LeetCode Contribution Activity" />
+
+</div>
+
+<br/>
+
 <!-- ===================== SNAKE ===================== -->
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
